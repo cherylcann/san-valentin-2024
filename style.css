@@ -4,6 +4,7 @@
 }
 
 body {
+    overflow-x: hidden;
     background-color: #fdcae1;
     font-family: sans-serif;
     overflow: hidden;
